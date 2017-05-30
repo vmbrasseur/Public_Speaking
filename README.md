@@ -1,5 +1,11 @@
 Moving [resources.md](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) from [10stepprogram](https://github.com/vmbrasseur/10stepprogram) to its own repo for easier sharing/contributing.
 
+## Contributing
+
+Have a public speaking resource you'd like to contribute? Thank you! We love contributors!
+
+Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
+
 ## Licensing
 
 While the individual works in this list each have their own copyright and licensing, the original version of this work is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
