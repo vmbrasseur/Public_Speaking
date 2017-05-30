@@ -1,0 +1,18 @@
+# From github/gitignore/blob/master/Global/Vim.gitignore
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+#---
+*.*~
+*~
+*.txt~
+*.md~
+*.swp
+.DS_Store

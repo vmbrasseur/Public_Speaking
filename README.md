@@ -1,0 +1,1 @@
+Moving [resources.md](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) from [10stepprogram](https://github.com/vmbrasseur/10stepprogram) to its own repo for easier sharing/contributing.
