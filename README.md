@@ -1,3 +1,5 @@
+# Public Speaking Resources
+
 Moving [resources.md](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) from [10stepprogram](https://github.com/vmbrasseur/10stepprogram) to its own repo for easier sharing/contributing.
 
 ## Contributing
@@ -6,17 +8,9 @@ Have a public speaking resource you'd like to contribute? Thank you! We love con
 
 Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
 
-## Licensing
+## Resources
 
-While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Please see [LICENSE.md](./LICENSE.md) for more information.
-
-# Resources
-
-## General
+### General
 
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
 * [Why you should give technical talks](http://daphsta.github.io/ruby%20learn%20self-development/2015/01/12/why-you-should-give-technical-talks.html) by Daphne Rouw
@@ -33,7 +27,7 @@ Please see [LICENSE.md](./LICENSE.md) for more information.
 * [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
 
-## Proposing talks
+### Proposing talks
 
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
@@ -42,13 +36,13 @@ Please see [LICENSE.md](./LICENSE.md) for more information.
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
 
-## Rejections
+### Rejections
 
 * [Why Your Excellent Conference Talk Was Rejected](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected) by Sarah Gray
 * [WHY YOU SHOULD AIM FOR 100 REJECTIONS A YEAR](http://lithub.com/why-you-should-aim-for-100-rejections-a-year/) by Kim Liao
 * [On conference proposal rejections](https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68) by Tracy Osborn
 
-## Writing presentations
+### Writing presentations
 
 * [Speaker style bingo: 10 presentation anti-patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) by Troy Hunt
 * [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
@@ -64,7 +58,7 @@ Please see [LICENSE.md](./LICENSE.md) for more information.
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) by Lena Reinhard
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
 
-## Presenting talks
+### Presenting talks
 
 * [How to give a great talk, the lazy way](http://dberkholz.com/2015/04/20/how-to-give-a-great-talk-the-lazy-way/) by Donnie Berkholz
 * [Give a Great Tech Talk 2](https://github.com/jberkus/ggtt2) by Josh Berkus
@@ -77,8 +71,15 @@ Please see [LICENSE.md](./LICENSE.md) for more information.
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
 
-## Other
+### Other
 
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
 
+## Licensing
+
+While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Please see [LICENSE.md](./LICENSE.md) for more information.
