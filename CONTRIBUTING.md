@@ -12,9 +12,9 @@ We follow the standard GitHub [pull request process](https://help.github.com/art
 
 Once in a great while we'll have to close the PR without merging it. This typically happens when the PR submits duplicate information or information which is not really applicable to this repo.
 
-If you have problems with the [pull request process](https://help.github.com/articles/creating-a-pull-request/) (for instance if you are new to GitHub), please join us in the `#public-speaking` channel on Freenode IRC and ask for assistance.
+If you have problems with the [pull request process](https://help.github.com/articles/creating-a-pull-request/) (for instance if you are new to GitHub), please join us in the `#public_speaking` channel on Freenode IRC and ask for assistance.
 
-Not familiar with IRC? No problem! [Click here for a web interface](https://webchat.freenode.net/?channels=%23public-speaking). Just select a nickname and then you're good to chat!
+Not familiar with IRC? No problem! [Click here for a web interface](https://webchat.freenode.net/?channels=%23public_speaking). Just select a nickname and then you're good to chat!
 
 ## Open an issue
 
