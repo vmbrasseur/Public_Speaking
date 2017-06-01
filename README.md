@@ -8,7 +8,7 @@ Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contribu
 
 ## Licensing
 
-While the individual works in this list each have their own copyright and licensing, the original version of this work is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
+While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
