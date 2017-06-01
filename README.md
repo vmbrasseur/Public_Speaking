@@ -10,6 +10,15 @@ Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contribu
 
 ## Resources
 
+Browse below or click here to jump directly to a section:
+
+* [General](https://github.com/vmbrasseur/Public_Speaking#general)
+* [Proposing Talks](https://github.com/vmbrasseur/Public_Speaking#proposing-talks)
+* [Rejections](https://github.com/vmbrasseur/Public_Speaking#rejections)
+* [Writing presentations](https://github.com/vmbrasseur/Public_Speaking#writing-presentations)
+* [Presenting talks](https://github.com/vmbrasseur/Public_Speaking#presenting-talks)
+* [Other](https://github.com/vmbrasseur/Public_Speaking#other)
+
 ### General
 
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
