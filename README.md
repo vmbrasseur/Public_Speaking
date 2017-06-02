@@ -21,6 +21,7 @@ Browse below or click here to jump directly to a section:
 
 ### General
 
+* [A 10 Step Program for Great Tech Talks](https://archive.org/details/devworld2016-speakertraining) by VM Brasseur
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
 * [Why you should give technical talks](http://daphsta.github.io/ruby%20learn%20self-development/2015/01/12/why-you-should-give-technical-talks.html) by Daphne Rouw
 * [The art of the keynote](http://guykawasaki.com/the-art-of-the-keynote/) by Guy Kawasaki
