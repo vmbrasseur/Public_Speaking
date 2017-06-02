@@ -13,11 +13,11 @@ Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contribu
 Browse below or click here to jump directly to a section:
 
 * [General](#general)
-* [Proposing Talks](https://github.com/vmbrasseur/Public_Speaking#proposing-talks)
-* [Rejections](https://github.com/vmbrasseur/Public_Speaking#rejections)
-* [Writing presentations](https://github.com/vmbrasseur/Public_Speaking#writing-presentations)
-* [Presenting talks](https://github.com/vmbrasseur/Public_Speaking#presenting-talks)
-* [Other](https://github.com/vmbrasseur/Public_Speaking#other)
+* [Proposing Talks](#proposing-talks)
+* [Rejections](#rejections)
+* [Writing presentations](#writing-presentations)
+* [Presenting talks](#presenting-talks)
+* [Other](#other)
 
 ### General
 
