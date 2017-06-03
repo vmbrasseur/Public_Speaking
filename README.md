@@ -10,6 +10,8 @@ Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contribu
 
 All contributors to and participants in this project agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
 
+Please [contact us](https://github.com/vmbrasseur/Public_Speaking/blob/master/CONTRIBUTING.md#for-more-help) if you have any questions about the project or contributing to it.
+
 ## Resources
 
 Browse below or click here to jump directly to a section:
