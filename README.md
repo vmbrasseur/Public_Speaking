@@ -8,7 +8,7 @@ Have a public speaking resource you'd like to contribute? Thank you! We love con
 
 Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
 
-All contributors to and participants in this project agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
+All contributors to and participants in this project (including the [IRC channel](https://webchat.freenode.net/?channels=%23public_speaking)) agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
 
 Please [contact us](https://github.com/vmbrasseur/Public_Speaking/blob/master/CONTRIBUTING.md#for-more-help) if you have any questions about the project or contributing to it.
 
