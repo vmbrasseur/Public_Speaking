@@ -1,6 +1,6 @@
 # Public Speaking Resources
 
-Moving [resources.md](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) from [10stepprogram](https://github.com/vmbrasseur/10stepprogram) to its own repo for easier sharing/contributing.
+This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
 
 ## Contributing
 
@@ -8,7 +8,7 @@ Have a public speaking resource you'd like to contribute? Thank you! We love con
 
 Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
 
-All contributors agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
+All contributors to and participants in this project agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
 
 ## Resources
 
@@ -87,6 +87,14 @@ Browse below or click here to jump directly to a section:
 
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
+
+## History & acknowledgments
+
+This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus). 
+
+Since that tutorial, the collection continued to grow as Vicky located new resources to add to the list. While the collection was public, it was buried. This repository brings it out into the light and makes it easy for everyone to locate, use, and contribute to it.
+
+Immense thanks due to Josh for helping build the initial collection of resources. Thank you, Josh!
 
 ## Licensing
 
