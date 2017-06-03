@@ -14,10 +14,6 @@ We follow the standard GitHub [pull request process](https://help.github.com/art
 
 Once in a great while we'll have to close the PR without merging it. This typically happens when the PR submits duplicate information or information which is not really applicable to this repo.
 
-If you have problems with the [pull request process](https://help.github.com/articles/creating-a-pull-request/) (for instance if you are new to GitHub), please join us in the `#public_speaking` channel on Freenode IRC and ask for assistance.
-
-Not familiar with IRC? No problem! [Click here for a web interface](https://webchat.freenode.net/?channels=%23public_speaking). Just select a nickname and then you're good to chat!
-
 ## Open an issue
 
 Have a question? Want someone else to add a resource for you? Just want to bounce something off the community? Great!
@@ -25,3 +21,11 @@ Have a question? Want someone else to add a resource for you? Just want to bounc
 Opening an issue is a valuable form of contribution. Just [fill in the New Issue form](https://github.com/vmbrasseur/Public_Speaking/issues/new).
 
 When you open your issue, try to make it as specific and as actionable as possible. Open-ended issues are difficult to resolve and may be closed.
+
+## For more help
+
+If you have problems with the [pull request process](https://help.github.com/articles/creating-a-pull-request/) (for instance if you are new to GitHub), please join us in the `#public_speaking` channel on Freenode IRC and ask for assistance.
+
+Not familiar with IRC? No problem! [Click here for a web interface](https://webchat.freenode.net/?channels=%23public_speaking). Just select a nickname and then you're good to chat!
+
+If you prefer, just [open an issue](https://github.com/vmbrasseur/Public_Speaking/issues/new) with your question & we'll get back to you as soon as possible.
