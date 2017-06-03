@@ -24,7 +24,7 @@ When you open your issue, try to make it as specific and as actionable as possib
 
 ## Share the project
 
-Even if you don't have a resource to add to the collection, sharing the collection with others is a very valuable form of contribution. The project is only useful if, well, it's used. Please share a link to the project with anyone who might need a helpful hand with their public speaking.
+Even if you don't have a resource to add to the collection, sharing the collection with others is a very valuable form of contribution. The project is only useful if, well, it's used. Please share a link to the project with anyone who might need a helpful hand with their public speaking. We're grateful for the help in spreading the project to those who need it.
 
 ## For more help
 
