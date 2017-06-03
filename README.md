@@ -8,6 +8,8 @@ Have a public speaking resource you'd like to contribute? Thank you! We love con
 
 Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
 
+All contributors agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
+
 ## Resources
 
 Browse below or click here to jump directly to a section:

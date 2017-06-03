@@ -2,6 +2,8 @@
 
 Hello! Thank you for being interested in contributing to this repository! We're grateful for our contributors.
 
+All contributors agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
+
 There are many ways to contribute to this repository:
 
 ## Submit a link
