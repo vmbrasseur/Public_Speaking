@@ -17,6 +17,7 @@ Please [contact us](https://github.com/vmbrasseur/Public_Speaking/blob/master/CO
 Browse below or click here to jump directly to a section:
 
 * [General](#general)
+* [Finding a Conference](#finding-a-conference)
 * [Proposing Talks](#proposing-talks)
 * [Rejections](#rejections)
 * [Writing presentations](#writing-presentations)
@@ -40,6 +41,26 @@ Browse below or click here to jump directly to a section:
 * [How to Become a Public Speaker in 1 Year: Gain the confidence to engage audiences on and offstage](https://www.amazon.com/dp/B01N4HX7ZJ) by Catt Small
 * [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
+
+### Finding a Conference
+
+Tech conferences are not the only way to do public speaking. You can find
+local users groups on [Meetup](http://www.meetup.com/) and similar sites that
+might be interested in hearnig your talks, as well!
+
+#### Aggregators of CFPs
+
+A CFP is a "Call For Papers", "Call For Proposals", or "Call For
+Participation" depending on the conference.
+
+* [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
+* [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
+* [DevOps Conferences](http://devopsconferences.org/)
+* [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
+
+#### Mailing lists with tech CFPs
+
+* [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
 
 ### Proposing talks
 
@@ -79,7 +100,7 @@ Browse below or click here to jump directly to a section:
 * [How To Give a Great Ignite Talk](http://scottberkun.com/2009/how-to-give-a-great-ignite-talk/) by Scott Berkun
 * [Women Who Code panel discussion on preparing for and speaking at technical conferences](http://www.youtube.com/watch?v=yE67bo7dmbY) (video)
 * [4 Secrets to Giving a Speech Worthy of a Standing Ovation](http://www.entrepreneur.com/article/253040) by Baron Schwartz
-* [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten 
+* [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten
 * [Let's stop tormenting speakers about these four normal qualities](http://eloquentwoman.blogspot.com/2016/10/lets-stop-tormenting-speakers-about.html?m=1) by Denise Graveline
 * [7 tips for learning how to give a technical talk](https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk) by Ala Hino
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
@@ -92,7 +113,7 @@ Browse below or click here to jump directly to a section:
 
 ## History & acknowledgments
 
-This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus). 
+This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus).
 
 Since that tutorial, the collection continued to grow as Vicky located new resources to add to the list. While the collection was public, it was buried. This repository brings it out into the light and makes it easy for everyone to locate, use, and contribute to it.
 
