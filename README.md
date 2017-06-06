@@ -40,6 +40,7 @@ Browse below or click here to jump directly to a section:
 * [How to Become a Public Speaker in 1 Year: Gain the confidence to engage audiences on and offstage](https://www.amazon.com/dp/B01N4HX7ZJ) by Catt Small
 * [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
+* [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 
 ### Proposing talks
 
@@ -50,6 +51,8 @@ Browse below or click here to jump directly to a section:
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
 * [Writing Winning Abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Macy Sutton
+* [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
+
 
 ### Rejections
 
