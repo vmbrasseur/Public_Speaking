@@ -6,7 +6,7 @@ This repository contains an ever-growing and -evolving list of resources for pub
 
 Have a public speaking resource you'd like to contribute? Thank you! We love contributors!
 
-Please have a look at [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all your contributing needs. :-)
+Please have a look at [CONTRIBUTING.md](./CONTRIBUTING.md) for all your contributing needs. :-)
 
 All contributors to and participants in this project (including the [IRC channel](https://webchat.freenode.net/?channels=%23public_speaking)) agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
 
@@ -79,7 +79,7 @@ Browse below or click here to jump directly to a section:
 * [How To Give a Great Ignite Talk](http://scottberkun.com/2009/how-to-give-a-great-ignite-talk/) by Scott Berkun
 * [Women Who Code panel discussion on preparing for and speaking at technical conferences](http://www.youtube.com/watch?v=yE67bo7dmbY) (video)
 * [4 Secrets to Giving a Speech Worthy of a Standing Ovation](http://www.entrepreneur.com/article/253040) by Baron Schwartz
-* [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten 
+* [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten
 * [Let's stop tormenting speakers about these four normal qualities](http://eloquentwoman.blogspot.com/2016/10/lets-stop-tormenting-speakers-about.html?m=1) by Denise Graveline
 * [7 tips for learning how to give a technical talk](https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk) by Ala Hino
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
@@ -92,7 +92,7 @@ Browse below or click here to jump directly to a section:
 
 ## History & acknowledgments
 
-This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus). 
+This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus).
 
 Since that tutorial, the collection continued to grow as Vicky located new resources to add to the list. While the collection was public, it was buried. This repository brings it out into the light and makes it easy for everyone to locate, use, and contribute to it.
 
