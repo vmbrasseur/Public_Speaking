@@ -84,6 +84,8 @@ Browse below or click here to jump directly to a section:
 * [7 tips for learning how to give a technical talk](https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk) by Ala Hino
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
+* [Preparing For Your First Talk](https://youtu.be/zzjoPxCU3ts?list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB) by Yash Prabhu, presented @Elaconf 2015
+
 
 ### Other
 
@@ -102,6 +104,5 @@ Immense thanks due to Josh for helping build the initial collection of resources
 
 While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.s
 Please see [LICENSE.md](./LICENSE.md) for more information.
