@@ -17,6 +17,7 @@ Please [contact us](https://github.com/vmbrasseur/Public_Speaking/blob/master/CO
 Browse below or click here to jump directly to a section:
 
 * [General](#general)
+* [Finding a Conference](#finding-a-conference)
 * [Proposing Talks](#proposing-talks)
 * [Rejections](#rejections)
 * [Writing presentations](#writing-presentations)
@@ -40,6 +41,26 @@ Browse below or click here to jump directly to a section:
 * [How to Become a Public Speaker in 1 Year: Gain the confidence to engage audiences on and offstage](https://www.amazon.com/dp/B01N4HX7ZJ) by Catt Small
 * [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
+
+### Finding a Conference
+
+Tech conferences are not the only way to do public speaking. You can find
+local users groups on [Meetup](http://www.meetup.com/) and similar sites that
+might be interested in hearnig your talks, as well!
+
+#### Aggregators of CFPs
+
+A CFP is a "Call For Papers", "Call For Proposals", or "Call For
+Participation" depending on the conference.
+
+* [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
+* [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
+* [DevOps Conferences](http://devopsconferences.org/)
+* [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
+
+#### Mailing lists with tech CFPs
+
+* [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
 
 ### Proposing talks
 
