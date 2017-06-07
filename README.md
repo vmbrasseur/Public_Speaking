@@ -42,6 +42,7 @@ Browse below or click here to jump directly to a section:
 * [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
+* [5 years behind the mic](https://medium.com/@wiredferret/5-years-behind-the-mic-7ed8f2d25222) by Heidi Waterhouse
 
 ### Finding a Conference
 
