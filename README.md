@@ -47,7 +47,7 @@ Browse below or click here to jump directly to a section:
 
 Tech conferences are not the only way to do public speaking. You can find
 local users groups on [Meetup](http://www.meetup.com/) and similar sites that
-might be interested in hearnig your talks, as well!
+might be interested in hearing your talks, as well!
 
 #### Aggregators of CFPs
 
@@ -107,7 +107,6 @@ Participation" depending on the conference.
 * [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten
 * [Let's stop tormenting speakers about these four normal qualities](http://eloquentwoman.blogspot.com/2016/10/lets-stop-tormenting-speakers-about.html?m=1) by Denise Graveline
 * [7 tips for learning how to give a technical talk](https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk) by Ala Hino
-* [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
 
 ### Other
