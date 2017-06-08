@@ -43,6 +43,7 @@ Browse below or click here to jump directly to a section:
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [5 years behind the mic](https://medium.com/@wiredferret/5-years-behind-the-mic-7ed8f2d25222) by Heidi Waterhouse
+* [Preparing Talks is Scary](https://medium.com/@helenvholmes/preparing-talks-is-scary-fb862deeaf0) by Helen V. Holmes
 
 ### Finding a Conference
 
