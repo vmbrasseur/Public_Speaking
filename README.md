@@ -82,6 +82,7 @@ Participation" depending on the conference.
 * [Why Your Excellent Conference Talk Was Rejected](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected) by Sarah Gray
 * [WHY YOU SHOULD AIM FOR 100 REJECTIONS A YEAR](http://lithub.com/why-you-should-aim-for-100-rejections-a-year/) by Kim Liao
 * [On conference proposal rejections](https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68) by Tracy Osborn
+* [On collecting no's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) by Katie McLaughlin
 
 ### Writing presentations
 
