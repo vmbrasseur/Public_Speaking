@@ -76,6 +76,7 @@ Participation" depending on the conference.
 * [Writing Winning Abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Macy Sutton
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
 * [How to write a good submission](http://web.archive.org/web/20170612205311/http://www.codemash.org/call-speakers/) by CodeMash (scroll down to the relevant & very helpful section of the page)
+* [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
 
 ### Writing a bio
 
