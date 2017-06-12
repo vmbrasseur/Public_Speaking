@@ -44,6 +44,7 @@ Browse below or click here to jump directly to a section:
 * [5 years behind the mic](https://medium.com/@wiredferret/5-years-behind-the-mic-7ed8f2d25222) by Heidi Waterhouse
 * [Preparing Talks is Scary](https://medium.com/@helenvholmes/preparing-talks-is-scary-fb862deeaf0) by Helen V. Holmes
 * [PODCAST: The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
+* [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
 
 ### Finding a Conference
 
