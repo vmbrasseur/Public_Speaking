@@ -76,6 +76,10 @@ Participation" depending on the conference.
 * [Writing Winning Abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Macy Sutton
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
 
+### Writing a bio
+
+* [How to Write a Personal Biography for a Conference](http://work.chron.com/write-personal-biography-conference-3108.html) by Elle Smith
+* [How to Write an Academic Bio for Conferences](https://phdlife.warwick.ac.uk/2017/02/01/how-to-write-an-academic-bio-for-conferences/) by Sophie Shorland (most tips here apply to technical conferences as well as academic)
 
 ### Rejections
 
