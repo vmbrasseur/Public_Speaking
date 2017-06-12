@@ -126,6 +126,7 @@ Participation" depending on the conference.
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
 * [Strategies For Attracting More of the “Underrepresented” Onto the Conference Stage](https://medium.com/@KimCrayton1/strategies-for-attracting-more-of-the-underrepresented-onto-the-conference-stage-f6d34464f635) by Kim Crayton
+* [LADY SPEAKER SMALL TALK](http://www.heidiwaterhouse.com/2017/06/09/lady-speaker-small-talk/) by Heidi Waterhouse
 
 ## History & acknowledgments
 
