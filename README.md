@@ -105,6 +105,7 @@ Participation" depending on the conference.
 * [A Checklist for More Persuasive Presentations](https://hbr.org/2016/10/a-checklist-for-more-persuasive-presentations) by Dorie Clark
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) by Lena Reinhard
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
+* [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
 
 ### Presenting talks
 
