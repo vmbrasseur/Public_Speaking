@@ -61,6 +61,7 @@ Participation" depending on the conference.
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
 * [DevOps Conferences](http://devopsconferences.org/)
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
+* [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
 
 #### Mailing lists with tech CFPs
 
