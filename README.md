@@ -26,7 +26,7 @@ Browse below or click here to jump directly to a section:
 
 ### General
 
-* [VIDEO: A 10 Step Program for Great Tech Talks](https://archive.org/details/devworld2016-speakertraining) by VM Brasseur
+* [🎥 A 10 Step Program for Great Tech Talks](https://archive.org/details/devworld2016-speakertraining) by VM Brasseur
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
 * [Why you should give technical talks](http://daphsta.github.io/ruby%20learn%20self-development/2015/01/12/why-you-should-give-technical-talks.html) by Daphne Rouw
 * [The art of the keynote](http://guykawasaki.com/the-art-of-the-keynote/) by Guy Kawasaki
@@ -38,12 +38,12 @@ Browse below or click here to jump directly to a section:
 * [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
 * [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/) by Scott Berkun
 * [How to Become a Public Speaker in 1 Year: Gain the confidence to engage audiences on and offstage](https://www.amazon.com/dp/B01N4HX7ZJ) by Catt Small
-* [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
+* [🎥 How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
-* [BOOK: Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
+* [📚 Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [5 years behind the mic](https://medium.com/@wiredferret/5-years-behind-the-mic-7ed8f2d25222) by Heidi Waterhouse
 * [Preparing Talks is Scary](https://medium.com/@helenvholmes/preparing-talks-is-scary-fb862deeaf0) by Helen V. Holmes
-* [PODCAST: The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
+* [🎧 The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
 
 ### Finding a Conference
