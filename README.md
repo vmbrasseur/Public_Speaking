@@ -91,7 +91,7 @@ Participation" depending on the conference.
 * [WHY YOU SHOULD AIM FOR 100 REJECTIONS A YEAR](http://lithub.com/why-you-should-aim-for-100-rejections-a-year/) by Kim Liao
 * [On conference proposal rejections](https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68) by Tracy Osborn
 * [On collecting no's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) by Katie McLaughlin
-* [#speakerlife](https://www.slideshare.net/genehackdotorg/speakerlife) by John Anderson
+* [🎥 #speakerlife lightning talk](https://www.youtube.com/watch?v=e-m-P4kGvr8) ([slides](https://www.slideshare.net/genehackdotorg/speakerlife)) by John Anderson
 
 ### Writing presentations
 
