@@ -66,6 +66,7 @@ Participation" depending on the conference.
 #### Mailing lists with tech CFPs
 
 * [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
+* [WikiCFP](http://www.wikicfp.com/cfp/), a Wiki page for Calls For Papers in science and technology fields. 
 
 ### Proposing talks
 
