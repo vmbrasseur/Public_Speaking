@@ -62,6 +62,7 @@ Participation" depending on the conference.
 * [DevOps Conferences](http://devopsconferences.org/)
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
+* [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
 
 #### Mailing lists with tech CFPs
 
