@@ -45,6 +45,8 @@ Browse below or click here to jump directly to a section:
 * [Preparing Talks is Scary](https://medium.com/@helenvholmes/preparing-talks-is-scary-fb862deeaf0) by Helen V. Holmes
 * [🎧 The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
+* [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
+* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 
 ### Finding a Conference
 
@@ -109,6 +111,7 @@ Participation" depending on the conference.
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) by Lena Reinhard
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
 * [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
+* [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
 
 ### Presenting talks
 
