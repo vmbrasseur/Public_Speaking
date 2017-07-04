@@ -33,7 +33,7 @@ Browse below or click here to jump directly to a section:
 * [A collection of awesome resources about public speaking](https://github.com/matteofigus/awesome-speaking) by Matteo Figus
 * [5 Ways to Leave Your Fears Behind and Learn to Love Public Speaking](https://www.themuse.com/advice/5-ways-to-leave-your-fears-behind-and-learn-to-love-public-speaking) by Kathryn Minshew
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) by Alistair Croll
-* [Helpful talk tips!](https://posts.postlight.com/helpful-talk-tips-5347ea7c2745#.l1avnxxqh) by Paul Ford
+* [Helpful talk tips!](https://trackchanges.postlight.com/helpful-talk-tips-5347ea7c2745) by Paul Ford
 * [Doing a TED Talk: The Full Story](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) by Tim Urban
 * [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
 * [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/) by Scott Berkun
@@ -46,7 +46,7 @@ Browse below or click here to jump directly to a section:
 * [🎧 The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
 * [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
-* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
+* [Don't send proposals at the last moment](https://2017.webcampzg.org/news/dont-send-proposals-last-moment/) by Damir Svrtan
 
 ### Finding a Conference
 
@@ -72,6 +72,7 @@ Participation" depending on the conference.
 
 ### Proposing talks
 
+* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
 * [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
