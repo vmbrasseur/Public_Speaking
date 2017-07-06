@@ -72,7 +72,6 @@ Participation" depending on the conference.
 
 ### Proposing talks
 
-* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
 * [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
@@ -83,6 +82,7 @@ Participation" depending on the conference.
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
 * [How to write a good submission](http://web.archive.org/web/20170612205311/http://www.codemash.org/call-speakers/) by CodeMash (scroll down to the relevant & very helpful section of the page)
 * [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
+* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 
 ### Writing a bio
 
