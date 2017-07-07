@@ -33,7 +33,7 @@ Browse below or click here to jump directly to a section:
 * [A collection of awesome resources about public speaking](https://github.com/matteofigus/awesome-speaking) by Matteo Figus
 * [5 Ways to Leave Your Fears Behind and Learn to Love Public Speaking](https://www.themuse.com/advice/5-ways-to-leave-your-fears-behind-and-learn-to-love-public-speaking) by Kathryn Minshew
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) by Alistair Croll
-* [Helpful talk tips!](https://posts.postlight.com/helpful-talk-tips-5347ea7c2745#.l1avnxxqh) by Paul Ford
+* [Helpful talk tips!](https://trackchanges.postlight.com/helpful-talk-tips-5347ea7c2745) by Paul Ford
 * [Doing a TED Talk: The Full Story](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) by Tim Urban
 * [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
 * [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/) by Scott Berkun
@@ -45,6 +45,8 @@ Browse below or click here to jump directly to a section:
 * [Preparing Talks is Scary](https://medium.com/@helenvholmes/preparing-talks-is-scary-fb862deeaf0) by Helen V. Holmes
 * [🎧 The Michael Jordan of Tech Talks](http://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks) by Kim Crayton
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
+* [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
+* [Don't send proposals at the last moment](https://2017.webcampzg.org/news/dont-send-proposals-last-moment/) by Damir Svrtan
 
 ### Finding a Conference
 
@@ -80,6 +82,7 @@ Participation" depending on the conference.
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
 * [How to write a good submission](http://web.archive.org/web/20170612205311/http://www.codemash.org/call-speakers/) by CodeMash (scroll down to the relevant & very helpful section of the page)
 * [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
+* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 
 ### Writing a bio
 
@@ -109,6 +112,7 @@ Participation" depending on the conference.
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) by Lena Reinhard
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
 * [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
+* [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
 
 ### Presenting talks
 
