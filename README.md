@@ -99,6 +99,7 @@ Participation" depending on the conference.
 
 ### Writing presentations
 
+* [slidelint](http://slidelint.net): Checks for common problems in presentation slides!
 * [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/) by Troy Hunt
 * [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
 * [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) by Nancy Duarte
