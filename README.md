@@ -65,7 +65,7 @@ Participation" depending on the conference.
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
 * [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
-
+* [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 #### Mailing lists with tech CFPs
 
 * [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
