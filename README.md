@@ -2,6 +2,11 @@
 
 This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
 
+* [Contributing](#contributing)
+* [Resources](#resources)
+* [History & Acknowledgments](#history--acknowledgments)
+* [Licensing](#licensing)
+
 ## Contributing
 
 Have a public speaking resource you'd like to contribute? Thank you! We love contributors!
