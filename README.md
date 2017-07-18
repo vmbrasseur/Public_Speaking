@@ -52,6 +52,7 @@ Browse below or click here to jump directly to a section:
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
 * [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
 * [Don't send proposals at the last moment](https://2017.webcampzg.org/news/dont-send-proposals-last-moment/) by Damir Svrtan
+* [How to be an Android Expert](https://news.realm.io/news/droidcon-boston-chiu-ki-chan-how-to-be-an-android-expert/) by Chiu-Ki Chan
 
 ### Finding a Conference
 
