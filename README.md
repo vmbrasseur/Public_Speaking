@@ -52,7 +52,7 @@ Browse below or click here to jump directly to a section:
 * [On Conference Speaking](https://hynek.me/articles/speaking/) by Hynek Schlawack
 * [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
 * [Don't send proposals at the last moment](https://2017.webcampzg.org/news/dont-send-proposals-last-moment/) by Damir Svrtan
-* [How to be an Android Expert](https://news.realm.io/news/droidcon-boston-chiu-ki-chan-how-to-be-an-android-expert/) by Chiu-Ki Chan, scroll down to **Call for Proposals** section of this post.
+* [How to be an Android Expert](https://news.realm.io/news/droidcon-boston-chiu-ki-chan-how-to-be-an-android-expert/) by Chiu-Ki Chan (scroll down to **Call for Proposals** section of this post)
 
 ### Finding a Conference
 
@@ -60,7 +60,7 @@ Tech conferences are not the only way to do public speaking. You can find
 local users groups on [Meetup](http://www.meetup.com/) and similar sites that
 might be interested in hearing your talks, as well!
 
-#### Aggregators of CFPs
+#### Aggregators of CFPs and Conferences
 
 A CFP is a "Call For Papers", "Call For Proposals", or "Call For
 Participation" depending on the conference.
@@ -73,6 +73,7 @@ Participation" depending on the conference.
 * [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
 * [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 * [CFP Time](https://cfptime.org)
+* [ConferenceList](https://conferencelist.co) (conferences only)
 
 #### Mailing lists with tech CFPs
 
