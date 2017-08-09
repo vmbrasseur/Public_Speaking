@@ -138,7 +138,6 @@ Participation" depending on the conference.
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
 * [Preparing For Your First Talk](https://youtu.be/zzjoPxCU3ts?list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB) by Yash Prabhu, presented at [ElaConf 2015](http://elaconf.com/)
 * [Speaking and Nerves](https://cate.blog/2017/06/15/speaking-and-nerves/) by Cate Huston
-* [Public speaking with S. Hanselman, K. Havens, M. Naggaga Nakanwagi, K. Uhlenhuth, and D. Brown](https://youtu.be/AY5Q9jw0n4g), an episode on [Microsft Channel 9](https://channel9.msdn.com/) about the challenges and rewards of speaking publicly.
 
 ### Other
 
