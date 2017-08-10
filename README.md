@@ -92,6 +92,7 @@ Participation" depending on the conference.
 * [How to write a good submission](http://web.archive.org/web/20170612205311/http://www.codemash.org/call-speakers/) by CodeMash (scroll down to the relevant & very helpful section of the page)
 * [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
 * [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
+* [SpeakerLine](http://speakerline.io/speakers), built by Nadia Odunayo to showcase speakers' proposals and timelines to demystify the CFP process and help new speakers get started.
 
 ### Writing a bio
 
@@ -137,7 +138,6 @@ Participation" depending on the conference.
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
 * [Preparing For Your First Talk](https://youtu.be/zzjoPxCU3ts?list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB) by Yash Prabhu, presented at [ElaConf 2015](http://elaconf.com/)
 * [Speaking and Nerves](https://cate.blog/2017/06/15/speaking-and-nerves/) by Cate Huston
-
 
 ### Other
 
