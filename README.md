@@ -87,7 +87,6 @@ Participation" depending on the conference.
 * [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal) by Nicole Martinelli
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
-* [Writing Winning Abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Macy Sutton
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
 * [How to write a good submission](http://web.archive.org/web/20170612205311/http://www.codemash.org/call-speakers/) by CodeMash (scroll down to the relevant & very helpful section of the page)
 * [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
