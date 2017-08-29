@@ -137,6 +137,7 @@ Participation" depending on the conference.
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
 * [Preparing For Your First Talk](https://youtu.be/zzjoPxCU3ts?list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB) by Yash Prabhu, presented at [ElaConf 2015](http://elaconf.com/)
 * [Speaking and Nerves](https://cate.blog/2017/06/15/speaking-and-nerves/) by Cate Huston
+* [Tradecraft of Public Speaking](https://moundalexis.com/v2/2015/04/06/speaking-tech.html) by Alex Moundalexis
 
 ### Other
 
