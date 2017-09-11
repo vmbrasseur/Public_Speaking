@@ -75,6 +75,7 @@ Participation" depending on the conference.
 * [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 * [CFP Time](https://cfptime.org)
 * [ConferenceList](https://conferencelist.co) (conferences only)
+* [Conference Radar](http://conferenceradar.com)
 
 #### Mailing lists with tech CFPs
 
