@@ -85,7 +85,7 @@ Participation" depending on the conference.
 
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
-* [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
+* [🎥 10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) by Matthew McCullough
 * [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal) by Nicole Martinelli
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
