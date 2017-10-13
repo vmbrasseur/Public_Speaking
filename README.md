@@ -151,6 +151,7 @@ Participation" depending on the conference.
 * [Public Speaking for Nerds](http://www.mechanicalgirl.com/post/public-speaking-nerds/) by Barbara Shaurette
 * [Public Speaking without Barfing on Your Shoes](https://github.com/reverentgeek/public-speaking) by David Neal
 * [Preparing a talk: presenting](https://blog.juliaferraioli.com/2017/10/preparing-talk-presenting.html) by Julia Ferraioli
+* [How to make your OpenStack Summit talk a big success](http://superuser.openstack.org/articles/how-to-make-your-openstack-summit-talk-a-big-success/) by Anne Bertucio
 
 ### Other
 
