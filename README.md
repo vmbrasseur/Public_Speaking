@@ -146,6 +146,7 @@ Participation" depending on the conference.
 * [Tradecraft of Public Speaking](https://moundalexis.com/v2/2015/04/06/speaking-tech.html) by Alex Moundalexis
 * [Public Speaking for Nerds](http://www.mechanicalgirl.com/post/public-speaking-nerds/) by Barbara Shaurette
 * [Public Speaking without Barfing on Your Shoes](https://github.com/reverentgeek/public-speaking) by David Neal
+* [The Art of Slide Design](https://speakerdeck.com/mseckington/the-art-of-slide-design) by Melinda Seckington
 
 ### Other
 
