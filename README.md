@@ -55,6 +55,7 @@ Browse below or click here to jump directly to a section:
 * [What You Need to Know About Speaking at Conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
 * [Don't send proposals at the last moment](https://2017.webcampzg.org/news/dont-send-proposals-last-moment/) by Damir Svrtan
 * [How to be an Android Expert](https://news.realm.io/news/droidcon-boston-chiu-ki-chan-how-to-be-an-android-expert/) by Chiu-Ki Chan (scroll down to **Call for Proposals** section of this post)
+* [Three things you don’t need to become a speaker](https://medium.com/@fox/three-things-you-dont-need-to-become-a-speaker-3c65b73af5cb) by Karolina Szczur
 
 ### Finding a Conference
 
