@@ -144,7 +144,8 @@ Participation" depending on the conference.
 * [Preparing For Your First Talk](https://youtu.be/zzjoPxCU3ts?list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB) by Yash Prabhu, presented at [ElaConf 2015](http://elaconf.com/)
 * [Speaking and Nerves](https://cate.blog/2017/06/15/speaking-and-nerves/) by Cate Huston
 * [Tradecraft of Public Speaking](https://moundalexis.com/v2/2015/04/06/speaking-tech.html) by Alex Moundalexis
-* [Public Speaking for Nerds](http://www.mechanicalgirl.com/post/public-speaking-nerds/) by Barbara Shaurette 
+* [Public Speaking for Nerds](http://www.mechanicalgirl.com/post/public-speaking-nerds/) by Barbara Shaurette
+* [Public Speaking without Barfing on Your Shoes](https://github.com/reverentgeek/public-speaking) by David Neal
 
 ### Other
 
