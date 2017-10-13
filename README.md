@@ -63,6 +63,8 @@ Tech conferences are not the only way to do public speaking. You can find
 local users groups on [Meetup](http://www.meetup.com/) and similar sites that
 might be interested in hearing your talks, as well!
 
+* [How To Get Speaking Engagements](https://hackernoon.com/how-to-get-speaking-engagements-c7fdebf8416d) by Sam Jarman
+
 #### Aggregators of CFPs and Conferences
 
 A CFP is a "Call For Papers", "Call For Proposals", or "Call For
