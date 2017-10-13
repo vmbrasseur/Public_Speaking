@@ -81,6 +81,7 @@ Participation" depending on the conference.
 * [CFP Time](https://cfptime.org)
 * [ConferenceList](https://conferencelist.co) (conferences only)
 * [Conference Radar](http://conferenceradar.com)
+* [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 
 #### Mailing lists with tech CFPs
 
