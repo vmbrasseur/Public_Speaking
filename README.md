@@ -128,6 +128,7 @@ Participation" depending on the conference.
 * [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
 * [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
 * [🎥 Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8) by Chet Haase
+* [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) by Melinda Seckington
 
 ### Presenting talks
 
