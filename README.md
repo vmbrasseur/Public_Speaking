@@ -96,6 +96,7 @@ Participation" depending on the conference.
 * [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts/) by Marcy Sutton
 * [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 * [SpeakerLine](http://speakerline.io/speakers), built by Nadia Odunayo to showcase speakers' proposals and timelines to demystify the CFP process and help new speakers get started.
+* [Preparing a talk: before you start ](https://blog.juliaferraioli.com/2017/09/preparing-talk-before-you-start.html) by Julia Ferraioli
 
 ### Writing a bio
 
@@ -129,6 +130,7 @@ Participation" depending on the conference.
 * [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
 * [🎥 Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8) by Chet Haase
 * [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) by Melinda Seckington
+* [Preparing a talk: writing your talk](https://blog.juliaferraioli.com/2017/10/preparing-talk-writing-your-talk.html) by Julia Ferraioli
 
 ### Presenting talks
 
@@ -146,6 +148,7 @@ Participation" depending on the conference.
 * [Tradecraft of Public Speaking](https://moundalexis.com/v2/2015/04/06/speaking-tech.html) by Alex Moundalexis
 * [Public Speaking for Nerds](http://www.mechanicalgirl.com/post/public-speaking-nerds/) by Barbara Shaurette
 * [Public Speaking without Barfing on Your Shoes](https://github.com/reverentgeek/public-speaking) by David Neal
+* [Preparing a talk: presenting](https://blog.juliaferraioli.com/2017/10/preparing-talk-presenting.html) by Julia Ferraioli
 
 ### Other
 
