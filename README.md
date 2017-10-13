@@ -127,6 +127,7 @@ Participation" depending on the conference.
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
 * [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
 * [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
+* [🎥 Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8) by Chet Haase
 
 ### Presenting talks
 
