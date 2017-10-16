@@ -9,7 +9,7 @@ This repository contains an ever-growing and -evolving list of resources for pub
 * [Contributing](#contributing) ([🇧🇷](./translations/pt-br#contribuindo))
 * [Resources](#resources) ([🇧🇷](./translations/pt-br#artigos))
 * [History & Acknowledgments](#history--acknowledgments) ([🇧🇷](./translations/pt-br#historia))
-* [Licensing](#licensing)([🇧🇷](./translations/pt-br#licença))
+* [Licensing](#licensing) ([🇧🇷](./translations/pt-br#licença))
 
 ## Contributing
 
