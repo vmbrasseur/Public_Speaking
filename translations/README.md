@@ -10,3 +10,8 @@
 * Please retain the names of the files (do not translate).
 
 For an excellent example, please see the [pt-br](./pt-br) translations provided here by [@airtonzanon](https://github.com/vmbrasseur/Public_Speaking/pull/28)
+
+After the translation files are merged into the repository, we still need to do the following:
+
+1. Update the main README.md to link to the translation directory and the anchors in the translation
+1. Update (or verify) the translation README.md links back to the us-en (main) directory & anchors
