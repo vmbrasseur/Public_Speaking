@@ -1,11 +1,15 @@
 # Artigos que podem ajudar pessoas a falar em público
 
+> Traduções disponíveis:
+>
+> * [🇺🇸 en-us](../../README.md)
+
 Esse repositório contém conteúdo para melhoria contínua e evolução para falar em público. O primeiro foco é apresentações em eventos técnicos, mas muitas dicas poderão ser usadas de diferentes formas para falar em público em eventos e audiências.
 
-* [Contribuindo](#contribuindo)
-* [Recursos](#artigos)
-* [História e Base de conhecimento](#historia)
-* [Licença](#licença)
+* [Contribuindo](#contribuindo) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking#contributing))
+* [Recursos](#artigos) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking#resources))
+* [História e Base de conhecimento](#historia) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking#history--acknowledgments))
+* [Licença](#licença) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking#licensing))
 
 ## Contribuindo
 
