@@ -1,11 +1,15 @@
 # Public Speaking Resources
 
+> Translations available:
+> 
+> * [🇧🇷 pt-br](./translations/pt-br)
+
 This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
 
-* [Contributing](#contributing)
-* [Resources](#resources)
-* [History & Acknowledgments](#history--acknowledgments)
-* [Licensing](#licensing)
+* [Contributing](#contributing) ([🇧🇷](./translations/pt-br#contribuindo))
+* [Resources](#resources) ([🇧🇷](./translations/pt-br#artigos))
+* [History & Acknowledgments](#history--acknowledgments) ([🇧🇷](./translations/pt-br#historia))
+* [Licensing](#licensing)([🇧🇷](./translations/pt-br#licença))
 
 ## Contributing
 
