@@ -14,6 +14,8 @@ Nós seguimos o padrão do Github [processo de pull request](https://help.github
 
 Quando você adicionar o link, por favor, adicione-o no **final** da lista na sessão que mais se encaixa no documento.
 
+**Sim, nós queremos que você envie artigos que não estejam escritos em Inglês!** Falar em público é um problema mundial e este repositório procura ajudar todos que estão procurando por ajuda para começar a apresentar palestras em eventos de tecnologia, não importando para a lingua que esta pessoa fala.
+
 De vez em quando, podemos ter que fechar uma PR sem realizar o merge. Isso acontece normalmente quando a PR está com informação duplicada ou informações na qual não é realmente aplicável ao projeto. Nós sempre iremos adicionar uma nota para explicar o por que da PR estar sendo fechada. Isso nunca será algo pessoal; acontece que a PR não se encaixou no projeto. Por favor, continue contribuindo. Nós seremos gratos por isso.
 
 ## Abrir uma issue
@@ -30,6 +32,10 @@ Mesmo se você não adicionar um artigo no projeto, compartilha-lo com seus amig
 só será útil se, bem ..., se as pessoas acessá-lo. Por favor, compartilhe o endereço do projeto com qualquer pessoa que você
 conheça e que precise de alguma ajuda com suas habilidades de falar em público, Nós ficaremos agradecidos por sua ajuda de 
 espalhar o projeto com quem precise.
+
+## Traduzir o projeto
+
+Se você é fluente ou conhece bastante da lingua Inglesa, nós adoraríamos que você contribuísse traduzindo este repositório. Por favor, olhe no [arquivo README no diretório de translations](../README.md) para mais informações.
 
 ## Para mais ajuda
 
