@@ -159,6 +159,11 @@ Participation" depending on the conference.
 * [Preparing a talk: presenting](https://blog.juliaferraioli.com/2017/10/preparing-talk-presenting.html) by Julia Ferraioli
 * [How to make your OpenStack Summit talk a big success](http://superuser.openstack.org/articles/how-to-make-your-openstack-summit-talk-a-big-success/) by Anne Bertucio
 * [Presenting presenting](https://medium.com/@chethaase/presenting-presenting-17233fa13aa5) by Chet Haase
+* [向柴静学习21个演讲技巧](https://www.digitaling.com/articles/13764.html) 来源：培训经理指南
+* [如何雕琢一场“走心”的技术演讲，让听众放下手机](http://www.10tiao.com/html/198/201609/2653120452/1.html) 作者：刘芸 
+* [如何做一场像TED一样精彩的技术演讲](http://www.offbye.com/2016/06/29/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E5%9C%BA%E5%83%8FTed%E4%B8%80%E6%A0%B7%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%AE%B2/) 作者：西涛
+* [18個PPT演講的技巧，讓你的提案能力提高N倍](https://www.mydesy.com/18-skills-of-speech) 来源：瘋狂簡報
+
 
 ### Other
 
