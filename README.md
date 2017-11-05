@@ -61,6 +61,7 @@ Browse below or click here to jump directly to a section:
 * [How to be an Android Expert](https://news.realm.io/news/droidcon-boston-chiu-ki-chan-how-to-be-an-android-expert/) by Chiu-Ki Chan (scroll down to **Call for Proposals** section of this post)
 * [Three things you don’t need to become a speaker](https://medium.com/@fox/three-things-you-dont-need-to-become-a-speaker-3c65b73af5cb) by Karolina Szczur
 * [Who am I to give this talk](http://ballingt.com/wanna-do-a-talk/) by Thomas Ballinger
+* [How public speaking made me a better leader (and vice-versa)](https://speakerdeck.com/yprabhu/elaconf2017) by Yash Prabhu
 * [🇨🇳 新手演讲：走上演讲台的第一步](https://ivaneye.com/2016/12/11/talk.html) 作者：Ivan Eye
 * [🇨🇳 學術會議英文社交演講技巧](https://www.cantabenglish.com/blog/conference_paper_presentation_skill) 作者：Dr Fiona Hu
 
