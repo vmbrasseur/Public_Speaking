@@ -31,6 +31,7 @@ Browse below or click here to jump directly to a section:
 * [Rejections](#rejections)
 * [Writing presentations](#writing-presentations)
 * [Presenting talks](#presenting-talks)
+* [Tools](#tools)
 * [Other](#other)
 
 ### General
@@ -64,6 +65,9 @@ Browse below or click here to jump directly to a section:
 * [How public speaking made me a better leader (and vice-versa)](https://speakerdeck.com/yprabhu/elaconf2017) by Yash Prabhu
 * [🇨🇳 新手演讲：走上演讲台的第一步](https://ivaneye.com/2016/12/11/talk.html) 作者：Ivan Eye
 * [🇨🇳 學術會議英文社交演講技巧](https://www.cantabenglish.com/blog/conference_paper_presentation_skill) 作者：Dr Fiona Hu
+* [Why I Speak at Developer Conferences](https://medium.com/@wiredferret/why-i-speak-at-developer-conferences-8017c708ba25) by Heidi Waterhouse
+* [What I've learned after giving 100 talks](https://medium.com/@zenorocha/what-ive-learned-after-giving-100-talks-8f175654e945) by Zeno Rocha
+* [Technical Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit) by Cory House
 
 ### Finding a Conference
 
@@ -167,6 +171,9 @@ Participation" depending on the conference.
 * [🇨🇳 如何做一场像TED一样精彩的技术演讲](http://www.offbye.com/2016/06/29/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E5%9C%BA%E5%83%8FTed%E4%B8%80%E6%A0%B7%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%AE%B2/) 作者：西涛
 * [🇨🇳 18個PPT演講的技巧，讓你的提案能力提高N倍](https://www.mydesy.com/18-skills-of-speech) 来源：瘋狂簡報
 
+### Tools
+
+* [Ask HN: What alternatives to Powerpoint/Prezi are there?](https://news.ycombinator.com/item?id=15575363)
 
 ### Other
 
