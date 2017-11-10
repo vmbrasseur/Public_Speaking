@@ -162,6 +162,7 @@ Participation" depending on the conference.
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
 * [Strategies For Attracting More of the “Underrepresented” Onto the Conference Stage](https://medium.com/@KimCrayton1/strategies-for-attracting-more-of-the-underrepresented-onto-the-conference-stage-f6d34464f635) by Kim Crayton
 * [LADY SPEAKER SMALL TALK](http://www.heidiwaterhouse.com/2017/06/09/lady-speaker-small-talk/) by Heidi Waterhouse
+* [Technically Speaking Newletter Archive](https://tinyletter.com/techspeak/archive) by Chiu-Ki Chan and Cate
 
 ## History & acknowledgments
 
