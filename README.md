@@ -68,6 +68,7 @@ Browse below or click here to jump directly to a section:
 * [Why I Speak at Developer Conferences](https://medium.com/@wiredferret/why-i-speak-at-developer-conferences-8017c708ba25) by Heidi Waterhouse
 * [What I've learned after giving 100 talks](https://medium.com/@zenorocha/what-ive-learned-after-giving-100-talks-8f175654e945) by Zeno Rocha
 * [Technical Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit) by Cory House
+* [5 Essential Ingredients for an Awesome Tech Talk](http://reverentgeek.com/5-essential-ingredients-for-an-awesome-tech-talk/) by Dave Neal
 
 ### Finding a Conference
 
@@ -93,6 +94,7 @@ Participation" depending on the conference.
 * [ConferenceList](https://conferencelist.co) (conferences only)
 * [Conference Radar](http://conferenceradar.com)
 * [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
+* [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
 
 #### Mailing lists with tech CFPs
 
