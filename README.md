@@ -95,6 +95,7 @@ Participation" depending on the conference.
 * [Conference Radar](http://conferenceradar.com)
 * [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
 #### Mailing lists with tech CFPs
 
