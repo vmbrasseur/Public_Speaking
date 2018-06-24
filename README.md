@@ -177,6 +177,7 @@ Participation" depending on the conference.
 ### Tools
 
 * [Ask HN: What alternatives to Powerpoint/Prezi are there?](https://news.ycombinator.com/item?id=15575363)
+* [UltraDeck: Turn Markdown into stunningly beautiful slides](https://ultradeck.co)
 
 ### Other
 
