@@ -177,6 +177,7 @@ Participation" depending on the conference.
 ### Tools
 
 * [Ask HN: What alternatives to Powerpoint/Prezi are there?](https://news.ycombinator.com/item?id=15575363)
+* [4 Markdown-powered slide generators](https://opensource.com/article/18/5/markdown-slide-generators)
 
 ### Other
 
