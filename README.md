@@ -69,6 +69,7 @@ Browse below or click here to jump directly to a section:
 * [What I've learned after giving 100 talks](https://medium.com/@zenorocha/what-ive-learned-after-giving-100-talks-8f175654e945) by Zeno Rocha
 * [Technical Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit) by Cory House
 * [5 Essential Ingredients for an Awesome Tech Talk](http://reverentgeek.com/5-essential-ingredients-for-an-awesome-tech-talk/) by Dave Neal
+* [give actionable takeaways](https://bridgetkromhout.com/blog/give-actionable-takeaways/) by Bridget Kromhout
 
 ### Finding a Conference
 
