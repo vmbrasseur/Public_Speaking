@@ -12,6 +12,10 @@ This is the most common form of contribution. You've found (or written! self-pro
 
 We follow the standard GitHub [pull request process](https://help.github.com/articles/creating-a-pull-request/). Please send a pull request (aka PR) with your contribution. We will then review it and either merge directly or ask you for modifications before merging.
 
+When adding a link, please add it to the **end** of the list of the most appropriate section of the doc.
+
+**YES, we welcome links to resources which are in non-English languages!** Public speaking is a worldwide undertaking and this repository seeks to support everyone looking to get started presenting at tech conferences, no matter what language they speak.
+
 Once in a great while we'll have to close the PR without merging it. This typically happens when the PR submits duplicate information or information which is not really applicable to this project. We'll always add a note to the PR explaining why we chose to close it without merging. It's never anything personal; the PR just wasn't a good fit. Please continue contributing. We're grateful for it.
 
 ## Open an issue
@@ -25,6 +29,10 @@ When you open your issue, try to make it as specific and as actionable as possib
 ## Share the project
 
 Even if you don't have a resource to add to the collection, sharing the collection with others is a very valuable form of contribution. The project is only useful if, well, it's used. Please share a link to the project with anyone who might need a helpful hand with their public speaking. We're grateful for the help in spreading the project to those who need it.
+
+## Translate the project
+
+If you are very fluent in a non-English language, we welcome contributions of translations of this repository! Please see the [README file in the translations directory](./translations/README.md) for more information.
 
 ## For more help
 
