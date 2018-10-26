@@ -104,6 +104,7 @@ Participation" depending on the conference.
 
 ### Proposing talks
 
+* [🎥 Writing a great conference talk submission](https://archive.org/details/dodseattle2019-cfp-training) by VM Brasseur
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
 * [🎥 10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) by Matthew McCullough
