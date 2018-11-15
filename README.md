@@ -86,13 +86,9 @@ Participation" depending on the conference.
 
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
-* [DevOps Conferences](http://devopsconferences.org/)
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
-* [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
-* [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 * [CFP Time](https://cfptime.org)
-* [ConferenceList](https://conferencelist.co) (conferences only)
 * [Conference Radar](http://conferenceradar.com)
 * [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
@@ -100,7 +96,7 @@ Participation" depending on the conference.
 
 #### Mailing lists with tech CFPs
 
-* [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
+* [Technically Speaking](https://tinyletter.com/techspeak/archive), emphasizes inclusive conferences with stipends. Archive up to end of 2018 when it stopped publishing.
 
 ### Proposing talks
 
