@@ -117,6 +117,7 @@ Participation" depending on the conference.
 * [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 * [SpeakerLine](http://speakerline.io/speakers), built by Nadia Odunayo to showcase speakers' proposals and timelines to demystify the CFP process and help new speakers get started.
 * [Preparing a talk: before you start ](https://blog.juliaferraioli.com/2017/09/preparing-talk-before-you-start.html) by Julia Ferraioli
+* [Your Abstract Sucks](https://medium.com/that-conference/your-abstract-sucks-21f39d61b617) by Clark Sell
 
 ### Writing a bio
 
