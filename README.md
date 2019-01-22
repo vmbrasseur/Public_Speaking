@@ -39,6 +39,10 @@ Browse below or click here to jump directly to a section:
 * [🎥 Speaker Training Workshop](https://archive.org/details/devworld2017-speakertraining) by VM Brasseur
 * [Advice for new speakers](http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/) by VM Brasseur
 * [7 best practices for giving a conference talk](https://opensource.com/article/17/9/7-best-practices-giving-conference-talk) by VM Brasseur
+* [5 public speaking resolutions for 2019](https://opensource.com/article/19/1/public-speaking-resolutions) by VM Brasseur
+* [A Tactical Guide to Effective Public Speaking for Marketing, Content and Tech Events](https://ronellsmith.com/blog/a-tactical-guide-to-effective-public-speaking-for-marketing-content-and-tech-events/) by Ronell Smith
+* [Public Speaking](https://www.edx.org/course/public-speaking-ritx-skills105x) by Dr. Keith B. Jenkins, RIT (edX course)
+* [Introduction to Public Speaking](https://www.edx.org/course/introduction-public-speaking-uwashingtonx-comm220x2) by Matt McGarrity, University of Washington (edX course)
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
 * [Why you should give technical talks](http://daphsta.github.io/ruby%20learn%20self-development/2015/01/12/why-you-should-give-technical-talks.html) by Daphne Rouw
 * [The art of the keynote](http://guykawasaki.com/the-art-of-the-keynote/) by Guy Kawasaki
@@ -70,6 +74,8 @@ Browse below or click here to jump directly to a section:
 * [Technical Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit) by Cory House
 * [5 Essential Ingredients for an Awesome Tech Talk](http://reverentgeek.com/5-essential-ingredients-for-an-awesome-tech-talk/) by Dave Neal
 * [give actionable takeaways](https://bridgetkromhout.com/blog/give-actionable-takeaways/) by Bridget Kromhout
+* [The Portland Experience; Confessions of a First Time Speaker @DevOpsDaysPDX](https://medium.com/@jasongrimes/the-portland-experience-confessions-of-a-first-time-speaker-devopsdayspdx-ceed50325fe3) by Jason Grimes
+* [A problem like public speaking](https://medium.com/a-problem-like-maria/a-problem-like-public-speaking-3859b20b2d00) by Maria Neumayer
 
 ### Finding a Conference
 
@@ -84,10 +90,11 @@ might be interested in hearing your talks, as well!
 A CFP is a "Call For Papers", "Call For Proposals", or "Call For
 Participation" depending on the conference.
 
+* [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
 * [DevOps Conferences](http://devopsconferences.org/)
-* [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
+* [confs.tech](https://confs.tech)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
 * [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
 * [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
@@ -96,15 +103,19 @@ Participation" depending on the conference.
 * [Conference Radar](http://conferenceradar.com)
 * [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList)
+* [CFP Land](https://www.cfpland.com)
+* [Techmeme Events List](https://www.techmeme.com/events)
+* [conferCal](http://www.confercal.com)
 
 #### Mailing lists with tech CFPs
 
-* [Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends
+* ~~[Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends~~ (This newsletter is on indefinite hiatus)
 
 ### Proposing talks
 
 * [🎥 Writing a great conference talk submission](https://archive.org/details/dodseattle2019-cfp-training) by VM Brasseur
+* [Community Pulse: How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted)](http://communitypulse.io/23-cfps/) by VM Brasseur and the Community Pulse Podcast Team
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
 * [🎥 10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) by Matthew McCullough
@@ -117,11 +128,24 @@ Participation" depending on the conference.
 * [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
 * [SpeakerLine](http://speakerline.io/speakers), built by Nadia Odunayo to showcase speakers' proposals and timelines to demystify the CFP process and help new speakers get started.
 * [Preparing a talk: before you start ](https://blog.juliaferraioli.com/2017/09/preparing-talk-before-you-start.html) by Julia Ferraioli
+* [Your Abstract Sucks](https://medium.com/that-conference/your-abstract-sucks-21f39d61b617) by Clark Sell
+* [🎥 CFP Advice](https://www.youtube.com/watch?v=lHIHgauh000) by Raquel Vélez and Sarah Mei
+* [🎥 How to Write a Conference Proposal](https://www.youtube.com/watch?v=2ESAV51B9VY) by Chiu-Ki Chan
+* [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/) by Sarah Mei
+* [A Process for Writing an Abstract](https://cate.blog/2015/11/27/a-process-for-writing-an-abstract/) by Cate Huston
+* [How to come up with conference proposal ideas](https://lucybain.com/blog/2016/conference-proposal-ideas/) by Lucy Bain
+* [Finding Your Killer Talk Idea](http://ladiesintech.com/finding-your-killer-talk-idea/) by Rachel Nabors
+* [Writing Conference Proposals](http://rmurphey.com/blog/2015/01/26/writing-conference-proposals) by Rebecca Murphey
+* [How to write a compelling proposal](http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html) by the We Are All Awesome Blog authors
+* [Is Your Conference Proposal Good Enough?](https://web.archive.org/web/20180625110929/http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez
+* [Addendum About Conference Proposals](https://www.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams
+* [Don’t Fear the CFP](https://medium.com/@mattstratton/dont-fear-the-cfp-e8272910972b) by Matt Stratton
 
 ### Writing a bio
 
 * [How to Write a Personal Biography for a Conference](http://work.chron.com/write-personal-biography-conference-3108.html) by Elle Smith
 * [How to Write an Academic Bio for Conferences](https://phdlife.warwick.ac.uk/2017/02/01/how-to-write-an-academic-bio-for-conferences/) by Sophie Shorland (most tips here apply to technical conferences as well as academic)
+* [🎥 Crafting Your Biography](https://www.youtube.com/watch?v=GPPnvXlVj7w) by Danielle Barnes
 
 ### Rejections
 
@@ -130,6 +154,7 @@ Participation" depending on the conference.
 * [On conference proposal rejections](https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68) by Tracy Osborn
 * [On collecting no's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) by Katie McLaughlin
 * [🎥 #speakerlife lightning talk](https://www.youtube.com/watch?v=e-m-P4kGvr8) ([slides](https://www.slideshare.net/genehackdotorg/speakerlife)) by John Anderson
+* [Rejection & Revision: On Improving Conference Proposals](https://dev.to/alainakafkes/rejection--revision-on-improving-conference-proposals-3fk) by Alaina Kafkes
 
 ### Writing presentations
 
@@ -149,8 +174,9 @@ Participation" depending on the conference.
 * [How I Create Talks](https://michele.io/how-i-create-talks/) by Michele Titolo
 * [My presentation workflow and challenges](http://larahogan.me/blog/my-presentation-workflow-and-challenges/) by Lara Hogan
 * [🎥 Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8) by Chet Haase
-* [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) by Melinda Seckington
+* [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) by Melinda Seckington ([🎥 video of this content](https://www.youtube.com/watch?v=e5gwEvQah-s)
 * [Preparing a talk: writing your talk](https://blog.juliaferraioli.com/2017/10/preparing-talk-writing-your-talk.html) by Julia Ferraioli
+* [Choosing Colors for Data Visualization](https://www.perceptualedge.com/articles/b-eye/choosing_colors.pdf)
 
 ### Presenting talks
 
@@ -175,11 +201,24 @@ Participation" depending on the conference.
 * [🇨🇳 如何雕琢一场“走心”的技术演讲，让听众放下手机](http://www.10tiao.com/html/198/201609/2653120452/1.html) 作者：刘芸 
 * [🇨🇳 如何做一场像TED一样精彩的技术演讲](http://www.offbye.com/2016/06/29/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E5%9C%BA%E5%83%8FTed%E4%B8%80%E6%A0%B7%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%AE%B2/) 作者：西涛
 * [:taiwan: 18個PPT演講的技巧，讓你的提案能力提高N倍](https://www.mydesy.com/18-skills-of-speech) 來源:瘋狂簡報
+* [In which the Floor is open](http://wondermark.com/c1393/) by David Malki !
+* [🎥 Your Perfect Tech Talk](https://www.youtube.com/watch?v=AzVr_nsKoZs) by Saron Yitbarek
+* [🎥 Intro to Public Speaking: The day of your talk](https://www.youtube.com/watch?v=m2j6-pjfvuo) by Jessica Rose
+* [11 Things You Should Never Say During A Presentation](https://www.linkedin.com/pulse/11-things-you-should-never-say-during-presentation-bernard-marr/?trackingId=JAocH5gp5u9FgmZNQlxw%2FA%3D%3D) by Bernard Marr
 
 ### Tools
 
+#### Slides
+
 * [Ask HN: What alternatives to Powerpoint/Prezi are there?](https://news.ycombinator.com/item?id=15575363)
 * [4 Markdown-powered slide generators](https://opensource.com/article/18/5/markdown-slide-generators)
+* [Deckset](https://www.deckset.com)
+* [Ultradeck](https://ultradeck.co)
+* [sent](https://tools.suckless.org/sent/)
+
+#### Demos
+
+* [demoshell](https://pypi.org/project/demoshell/) A simplified shell for live demonstrations. It always shows the command prompt at the top of the screen and pushes command output down instead of letting iscroll up.
 
 ### Other
 
@@ -187,6 +226,10 @@ Participation" depending on the conference.
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
 * [Strategies For Attracting More of the “Underrepresented” Onto the Conference Stage](https://medium.com/@KimCrayton1/strategies-for-attracting-more-of-the-underrepresented-onto-the-conference-stage-f6d34464f635) by Kim Crayton
 * [LADY SPEAKER SMALL TALK](http://www.heidiwaterhouse.com/2017/06/09/lady-speaker-small-talk/) by Heidi Waterhouse
+* [How To Ask To Get Paid To Speak](https://seb.ly/2014/05/how-to-ask-to-get-paid-to-speak/) by Seb Lee-Delisle
+* [A Formula For Speaking Fees](http://www.thenerdary.net/post/84544230452/a-formula-for-speaking-fees) by Jenn Lukas
+* [How to Land Your First Paid Speaking Gig](https://hbr.org/2017/11/how-to-land-your-first-paid-speaking-gig) by Dorie Clark
+* [🎥 Carrying On: Tech Travel Lessons](https://www.youtube.com/watch?v=wOs8hYJ8s-4&app=desktop) by Kara Sowles
 
 ## History & acknowledgments
 
