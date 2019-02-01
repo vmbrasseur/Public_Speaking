@@ -93,13 +93,9 @@ Participation" depending on the conference.
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
-* [DevOps Conferences](http://devopsconferences.org/)
 * [confs.tech](https://confs.tech)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
-* [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
-* [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 * [CFP Time](https://cfptime.org)
-* [ConferenceList](https://conferencelist.co) (conferences only)
 * [Conference Radar](http://conferenceradar.com)
 * [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
@@ -107,10 +103,12 @@ Participation" depending on the conference.
 * [CFP Land](https://www.cfpland.com)
 * [Techmeme Events List](https://www.techmeme.com/events)
 * [conferCal](http://www.confercal.com)
+* [Design Conferences](https://design-conferences-2019.com) UX, UI, Product & Interaction Design Conferences
+* [Marketing Conferences](https://marketing-conferences-2019.com) SEO, Social Media, Content, Growth, B2B & B2C Conferences
 
 #### Mailing lists with tech CFPs
 
-* ~~[Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends~~ (This newsletter is on indefinite hiatus)
+* ~~[Technically Speaking](https://tinyletter.com/techspeak/archive), emphasizes inclusive conferences with stipends. Archive up to end of 2018 when it stopped publishing.
 
 ### Proposing talks
 
