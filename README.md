@@ -104,7 +104,6 @@ Participation" depending on the conference.
 * [Techmeme Events List](https://www.techmeme.com/events)
 * [conferCal](http://www.confercal.com)
 * [Design Conferences](https://design-conferences-2019.com) UX, UI, Product & Interaction Design Conferences
-* [Marketing Conferences](https://marketing-conferences-2019.com) SEO, Social Media, Content, Growth, B2B & B2C Conferences
 
 #### Mailing lists with tech CFPs
 
