@@ -93,11 +93,9 @@ Participation" depending on the conference.
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
-* [confs.tech](https://confs.tech)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
 * [CFP Time](https://cfptime.org)
 * [Conference Radar](http://conferenceradar.com)
-* [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList)
 * [CFP Land](https://www.cfpland.com)
