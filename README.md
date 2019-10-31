@@ -76,6 +76,7 @@ Browse below or click here to jump directly to a section:
 * [give actionable takeaways](https://bridgetkromhout.com/blog/give-actionable-takeaways/) by Bridget Kromhout
 * [The Portland Experience; Confessions of a First Time Speaker @DevOpsDaysPDX](https://medium.com/@jasongrimes/the-portland-experience-confessions-of-a-first-time-speaker-devopsdayspdx-ceed50325fe3) by Jason Grimes
 * [A problem like public speaking](https://medium.com/a-problem-like-maria/a-problem-like-public-speaking-3859b20b2d00) by Maria Neumayer
+* [🎥 Why you should pursue public speaking and how to get there](https://youtu.be/pQfNB9EJ7Do) by Yenny Cheung
 
 ### Finding a Conference
 
