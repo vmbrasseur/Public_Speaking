@@ -7,10 +7,10 @@
 
 To repozytorium zawiera stale rosnącą i stale zmieniającą się listę materiałów przydatnych do wystąpień publicznych. Główny nacisk kładziony jest na prezentacje na konferencjach technicznych, ale wiele zasobów stąd można zastosować też do wielu ogólnych, różnych wystąpień publicznych i odbiorców.
 
-* [Współtworzenie](#contributing) ([🇵🇱](./translations/pl-pl#współtworzenie))
-* [Materiały](#materiały) ([🇵🇱](./translations/pl-pl#materiały))
-* [Historia & podziękowania](#history--acknowledgments) ([🇵🇱](./translations/pl-pl#historia--podziękowania))
-* [Licencja](#licencja) ([🇵🇱](./translations/pl-pl#licencja))
+* [Współtworzenie](#współtworzenie) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#contributing))
+* [Materiały](#materiały) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#resources))
+* [Historia & podziękowania](#historia--podziękowania) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#history--acknowledgments))
+* [Licencja](#licencja) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#licensing))
 
 ## Współtworzenie
 
