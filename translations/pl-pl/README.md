@@ -9,7 +9,7 @@ To repozytorium zawiera stale rosnącą i stale zmieniającą się listę materi
 
 * [Współtworzenie](#contributing) ([🇵🇱](./translations/pl-pl#współtworzenie))
 * [Materiały](#materiały) ([🇵🇱](./translations/pl-pl#materiały))
-* [Historia & podziękowania](#history--acknowledgments) ([🇵🇱](./translations/pt-br#historia-podziękowania))
+* [Historia & podziękowania](#history--acknowledgments) ([🇵🇱](./translations/pl-pl#historia--podziękowania))
 * [Licencja](#licencja) ([🇵🇱](./translations/pl-pl#licencja))
 
 ## Współtworzenie
@@ -239,15 +239,17 @@ Participation" w zależności od konferencji.
 
 ## Historia & podziękowania
 
-This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus).
+Ten zbiór zasobów rozpoczął się jako [bibliografia](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) na potrzeby [poradnika wystąpień publicznych](https://github.com/vmbrasseur/10stepprogram) napisanego & zaprezentowanego przez [VM (Vicky) Brasseur](https://vmbrasseur.com) oraz [Josh Berkus](https://github.com/jberkus).
 
-Since that tutorial, the collection continued to grow as Vicky located new resources to add to the list. While the collection was public, it was buried. This repository brings it out into the light and makes it easy for everyone to locate, use, and contribute to it.
+Od czasu stworzenia tego poradnika jego kolekcja stale się powiększała, ponieważ Vicky lokalizowała nowe materiały, aby dodać je do listy. Podczas gdy kolekcja była publiczna, została schowana. To repozytorium wydobywa je na światło dzienne i ułatwia każdemu zlokalizowanie, użycie i współtworzenie.
 
-Immense thanks due to Josh for helping build the initial collection of resources. Thank you, Josh!
+Ogromne podziękowania dla Josha za pomoc w budowie początkowej kolekcji materiałów. Dziękuję Josh!
 
 ## Licencja
 
-While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
+Chociaż poszczególne dzieła z tej listy mają własne prawa autorskie i licencje, samo to dzieło jest chronione prawem autorskim [VM Brasseur](https://vmbrasseur.com). Wszyscy współpracownicy zachowują prawa autorskie do swoich wkładów w dzieło.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 Please see [LICENSE.md](./LICENSE.md) for more information.
+
+Wersja polska od: @[mbiesiad](https://github.com/mbiesiad)
