@@ -3,6 +3,7 @@
 > Translations available:
 > 
 > * [🇧🇷 pt-br](./translations/pt-br)
+> * [🇵🇱 pl-pl](https://github.com/mbiesiad/Public_Speaking/blob/master/translations/pl-pl/README.md)
 
 This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
 
