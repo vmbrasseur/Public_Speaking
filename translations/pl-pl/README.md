@@ -2,7 +2,7 @@
 
 > Dostępne tłumaczenia:
 > 
-> * [🇧🇷 pt-br](./translations/pt-br)
+> * [🇧🇷 pt-br](https://github.com/mbiesiad/Public_Speaking/tree/master/translations/pt-br)
 > * [US en-us](https://github.com/mbiesiad/Public_Speaking/blob/master/README.md)
 
 To repozytorium zawiera stale rosnącą i stale zmieniającą się listę materiałów przydatnych do wystąpień publicznych. Główny nacisk kładziony jest na prezentacje na konferencjach technicznych, ale wiele zasobów stąd można zastosować też do wielu ogólnych, różnych wystąpień publicznych i odbiorców.
