@@ -108,6 +108,7 @@ Participation" depending on the conference.
 * [CFP Land](https://www.cfpland.com)
 * [Techmeme Events List](https://www.techmeme.com/events)
 * [conferCal](http://www.confercal.com)
+* [Tech Daily CFP](TechDailyCFP.com) - A daily newsletter of open CFPs for tech conferences, also on Twitter [@TechDailyCFP](https://twitter.com/TechDailyCFP/)
 
 #### Mailing lists with tech CFPs
 
