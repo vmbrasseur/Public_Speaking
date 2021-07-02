@@ -1,7 +1,7 @@
 # Public Speaking Resources
 
 > Translations available:
-> 
+>
 > * [🇧🇷 pt-br](./translations/pt-br)
 
 This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
@@ -115,7 +115,7 @@ Participation" depending on the conference.
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
 * [🎥 10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) by Matthew McCullough
-* [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/successful-openstack-summit-talk/) by Nicole Martinelli 
+* [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/successful-openstack-summit-talk/) by Nicole Martinelli
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
 * [How to Write a Successful Conference Proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur
@@ -173,6 +173,7 @@ Participation" depending on the conference.
 * [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) by Melinda Seckington ([🎥 video of this content](https://www.youtube.com/watch?v=e5gwEvQah-s)
 * [Preparing a talk: writing your talk](https://blog.juliaferraioli.com/2017/10/preparing-talk-writing-your-talk.html) by Julia Ferraioli
 * [Choosing Colors for Data Visualization](https://www.perceptualedge.com/articles/b-eye/choosing_colors.pdf)
+* [CC-Licensed Ignite Workshop Materials](https://github.com/paypal/IgniteTraining)
 
 ### Presenting talks
 
@@ -194,7 +195,7 @@ Participation" depending on the conference.
 * [How to make your OpenStack Summit talk a big success](http://superuser.openstack.org/articles/how-to-make-your-openstack-summit-talk-a-big-success/) by Anne Bertucio
 * [Presenting presenting](https://medium.com/@chethaase/presenting-presenting-17233fa13aa5) by Chet Haase
 * [🇨🇳 向柴静学习21个演讲技巧](https://www.digitaling.com/articles/13764.html) 来源：培训经理指南
-* [🇨🇳 如何雕琢一场“走心”的技术演讲，让听众放下手机](http://www.10tiao.com/html/198/201609/2653120452/1.html) 作者：刘芸 
+* [🇨🇳 如何雕琢一场“走心”的技术演讲，让听众放下手机](http://www.10tiao.com/html/198/201609/2653120452/1.html) 作者：刘芸
 * [🇨🇳 如何做一场像TED一样精彩的技术演讲](http://www.offbye.com/2016/06/29/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E5%9C%BA%E5%83%8FTed%E4%B8%80%E6%A0%B7%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%AE%B2/) 作者：西涛
 * [:taiwan: 18個PPT演講的技巧，讓你的提案能力提高N倍](https://www.mydesy.com/18-skills-of-speech) 來源:瘋狂簡報
 * [In which the Floor is open](http://wondermark.com/c1393/) by David Malki !
