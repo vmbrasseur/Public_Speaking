@@ -1,41 +1,41 @@
-# Public Speaking Resources
+# Wystąpienia publiczne - materiały
 
-> Translations available:
+> Dostępne tłumaczenia:
 > 
-> * [🇧🇷 pt-br](./translations/pt-br)
-> * [🇵🇱 pl-pl](https://github.com/mbiesiad/Public_Speaking/blob/master/translations/pl-pl/README.md)
+> * [🇧🇷 pt-br](https://github.com/mbiesiad/Public_Speaking/tree/master/translations/pt-br)
+> * [US en-us](https://github.com/mbiesiad/Public_Speaking/blob/master/README.md)
 
-This repository contains an ever-growing and -evolving list of resources for public speaking. The primary focus is presenting at technical conferences, but many of the lessons here can be applied to many different public speaking events & audiences.
+To repozytorium zawiera stale rosnącą i stale zmieniającą się listę materiałów przydatnych do wystąpień publicznych. Główny nacisk kładziony jest na prezentacje na konferencjach technicznych, ale wiele zasobów stąd można zastosować też do wielu ogólnych, różnych wystąpień publicznych i odbiorców.
 
-* [Contributing](#contributing) ([🇧🇷](./translations/pt-br#contribuindo))
-* [Resources](#resources) ([🇧🇷](./translations/pt-br#artigos))
-* [History & Acknowledgments](#history--acknowledgments) ([🇧🇷](./translations/pt-br#historia))
-* [Licensing](#licensing) ([🇧🇷](./translations/pt-br#licença))
+* [Współtworzenie](#współtworzenie) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#contributing))
+* [Materiały](#materiały) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#resources))
+* [Historia & podziękowania](#historia--podziękowania) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#history--acknowledgments))
+* [Licencja](#licencja) ([🇺🇸](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md#licensing))
 
-## Contributing
+## Współtworzenie
 
-Have a public speaking resource you'd like to contribute? Thank you! We love contributors!
+Masz materiał do wystąpień publicznych, którym chcesz wesprzeć projekt? Dziękujemy Ci! Uwielbiamy współtwórców!
 
-Please have a look at [CONTRIBUTING.md](./CONTRIBUTING.md) for all your contributing needs. :-)
+Proszę, rzuć okiem na [CONTRIBUTING.md](./CONTRIBUTING.md) po wszelkie szczegóły, których potrzebujesz. :-)
 
-All contributors to and participants in this project (including the [IRC channel](https://webchat.freenode.net/?channels=%23public_speaking)) agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
+Wszyscy współtwórcy i uczestnicy tego projektu (biorąc też pod uwagę [kanał IRC](https://webchat.freenode.net/?channels=%23public_speaking)) zgadzają się przestrzegać [Kodeksu postępowania](./CODEOFCONDUCT.md).
 
-Please [contact us](https://github.com/vmbrasseur/Public_Speaking/blob/master/CONTRIBUTING.md#for-more-help) if you have any questions about the project or contributing to it.
+[Skontaktuj się z nami](https://github.com/vmbrasseur/Public_Speaking/blob/master/CONTRIBUTING.md#for-more-help), jeśli masz jakieś pytania na temat projektu lub współudziału w nim.
 
-## Resources
+## Materiały
 
-Browse below or click here to jump directly to a section:
+Przeglądaj materiały poniżej lub kliknij tutaj, aby przejść bezpośrednio do odpowiedniej sekcji:
 
-* [General](#general)
-* [Finding a Conference](#finding-a-conference)
+* [Ogólne](#ogólne)
+* [Znajdywanie konferencji](#znajdywanie-konferencji)
 * [Proposing Talks](#proposing-talks)
-* [Rejections](#rejections)
-* [Writing presentations](#writing-presentations)
-* [Presenting talks](#presenting-talks)
-* [Tools](#tools)
-* [Other](#other)
+* [Odmowy](#odmowy)
+* [Tworzenie prezentacji](#tworzenie-prezentacji)
+* [Prezentowanie](#prezentowanie)
+* [Narzędzia](#narzędzia)
+* [Inne](#inne)
 
-### General
+### Ogólne
 
 * [🎥 Speaker Training Workshop](https://archive.org/details/devworld2017-speakertraining) by VM Brasseur
 * [Advice for new speakers](http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/) by VM Brasseur
@@ -79,35 +79,40 @@ Browse below or click here to jump directly to a section:
 * [A problem like public speaking](https://medium.com/a-problem-like-maria/a-problem-like-public-speaking-3859b20b2d00) by Maria Neumayer
 * [🎥 Why you should pursue public speaking and how to get there](https://youtu.be/pQfNB9EJ7Do) by Yenny Cheung
 
-### Finding a Conference
+### Znajdywanie konferencji
 
-Tech conferences are not the only way to do public speaking. You can find
-local users groups on [Meetup](http://www.meetup.com/) and similar sites that
-might be interested in hearing your talks, as well!
+Techniczne konferencje to nie jedyny sposób na wystąpienie publiczne. Możesz znaleźć
+grupy użytkowników na lokalnych [Meetupach](http://www.meetup.com/) i podobnych witrynach, gdzie
+być może również inne osoby zainteresujesz swoimi prezentacjami!
 
 * [How To Get Speaking Engagements](https://hackernoon.com/how-to-get-speaking-engagements-c7fdebf8416d) by Sam Jarman
 
-#### Aggregators of CFPs and Conferences
+#### Agregatory (witryny internetowe gromadzące i wyświetlające dane z różnych źródeł internetowych) dot. CFPs oraz konferencji
 
-A CFP is a "Call For Papers", "Call For Proposals", or "Call For
-Participation" depending on the conference.
+CFP (zaproszenia do nadsyłania artykułów naukowych) to skrót od "Call For Papers", "Call For Proposals", lub "Call For
+Participation" w zależności od konferencji.
 
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
+* [DevOps Conferences](http://devopsconferences.org/)
+* [confs.tech](https://confs.tech)
 * [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
+* [Mozilla Tech CFPs](https://tchspk.rs/cfp) (all events welcome, not just Mozilla ones)
+* [Lanyrd](http://lanyrd.com/calls/) (Conferences and CFPs)
 * [CFP Time](https://cfptime.org)
+* [ConferenceList](https://conferencelist.co) (conferences only)
 * [Conference Radar](http://conferenceradar.com)
+* [Code And Talk](https://codeandtalk.com/conferences) (Conferences and CFPs)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList)
 * [CFP Land](https://www.cfpland.com)
 * [Techmeme Events List](https://www.techmeme.com/events)
 * [conferCal](http://www.confercal.com)
-* [Design Conferences](https://design-conferences-2019.com) UX, UI, Product & Interaction Design Conferences
 
-#### Mailing lists with tech CFPs
+#### Listy mailingowe z technicznymi CFPs
 
-* ~~[Technically Speaking](https://tinyletter.com/techspeak/archive), emphasizes inclusive conferences with stipends. Archive up to end of 2018 when it stopped publishing.
+* ~~[Technically Speaking](https://tinyletter.com/techspeak), emphasizes inclusive conferences with stipends~~ (This newsletter is on indefinite hiatus)
 
 ### Proposing talks
 
@@ -138,13 +143,13 @@ Participation" depending on the conference.
 * [Addendum About Conference Proposals](https://www.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams
 * [Don’t Fear the CFP](https://medium.com/@mattstratton/dont-fear-the-cfp-e8272910972b) by Matt Stratton
 
-### Writing a bio
+### Pisanie biografii
 
 * [How to Write a Personal Biography for a Conference](http://work.chron.com/write-personal-biography-conference-3108.html) by Elle Smith
 * [How to Write an Academic Bio for Conferences](https://phdlife.warwick.ac.uk/2017/02/01/how-to-write-an-academic-bio-for-conferences/) by Sophie Shorland (most tips here apply to technical conferences as well as academic)
 * [🎥 Crafting Your Biography](https://www.youtube.com/watch?v=GPPnvXlVj7w) by Danielle Barnes
 
-### Rejections
+### Odmowy
 
 * [Why Your Excellent Conference Talk Was Rejected](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected) by Sarah Gray
 * [WHY YOU SHOULD AIM FOR 100 REJECTIONS A YEAR](http://lithub.com/why-you-should-aim-for-100-rejections-a-year/) by Kim Liao
@@ -153,7 +158,7 @@ Participation" depending on the conference.
 * [🎥 #speakerlife lightning talk](https://www.youtube.com/watch?v=e-m-P4kGvr8) ([slides](https://www.slideshare.net/genehackdotorg/speakerlife)) by John Anderson
 * [Rejection & Revision: On Improving Conference Proposals](https://dev.to/alainakafkes/rejection--revision-on-improving-conference-proposals-3fk) by Alaina Kafkes
 
-### Writing presentations
+### Tworzenie prezentacji
 
 * [slidelint](http://slidelint.net): Checks for common problems in presentation slides!
 * [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/) by Troy Hunt
@@ -175,7 +180,7 @@ Participation" depending on the conference.
 * [Preparing a talk: writing your talk](https://blog.juliaferraioli.com/2017/10/preparing-talk-writing-your-talk.html) by Julia Ferraioli
 * [Choosing Colors for Data Visualization](https://www.perceptualedge.com/articles/b-eye/choosing_colors.pdf)
 
-### Presenting talks
+### Prezentowanie
 
 * [How to give a great talk, the lazy way](http://dberkholz.com/2015/04/20/how-to-give-a-great-talk-the-lazy-way/) by Donnie Berkholz
 * [Give a Great Tech Talk 2](https://github.com/jberkus/ggtt2) by Josh Berkus
@@ -203,9 +208,9 @@ Participation" depending on the conference.
 * [🎥 Intro to Public Speaking: The day of your talk](https://www.youtube.com/watch?v=m2j6-pjfvuo) by Jessica Rose
 * [11 Things You Should Never Say During A Presentation](https://www.linkedin.com/pulse/11-things-you-should-never-say-during-presentation-bernard-marr/?trackingId=JAocH5gp5u9FgmZNQlxw%2FA%3D%3D) by Bernard Marr
 
-### Tools
+### Narzędzia
 
-#### Slides
+#### Prezentacje
 
 * [Ask HN: What alternatives to Powerpoint/Prezi are there?](https://news.ycombinator.com/item?id=15575363)
 * [4 Markdown-powered slide generators](https://opensource.com/article/18/5/markdown-slide-generators)
@@ -213,15 +218,15 @@ Participation" depending on the conference.
 * [Ultradeck](https://ultradeck.co)
 * [sent](https://tools.suckless.org/sent/)
 
-#### Demos
+#### Dema
 
 * [demoshell](https://pypi.org/project/demoshell/) A simplified shell for live demonstrations. It always shows the command prompt at the top of the screen and pushes command output down instead of letting iscroll up.
 
-#### Code
+#### Kod
 
 * [carbon.now.sh](https://carbon.now.sh/) A tool for generating images of pleasantly sized and highlighted code for slides.
 
-### Other
+### Inne
 
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
@@ -232,17 +237,19 @@ Participation" depending on the conference.
 * [How to Land Your First Paid Speaking Gig](https://hbr.org/2017/11/how-to-land-your-first-paid-speaking-gig) by Dorie Clark
 * [🎥 Carrying On: Tech Travel Lessons](https://www.youtube.com/watch?v=wOs8hYJ8s-4&app=desktop) by Kara Sowles
 
-## History & acknowledgments
+## Historia & podziękowania
 
-This collection of resources started as a [bibliography](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) for [a public speaking tutorial](https://github.com/vmbrasseur/10stepprogram) written & presented by [VM (Vicky) Brasseur](https://vmbrasseur.com) and [Josh Berkus](https://github.com/jberkus).
+Ten zbiór zasobów rozpoczął się jako [bibliografia](https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md) na potrzeby [poradnika wystąpień publicznych](https://github.com/vmbrasseur/10stepprogram) napisanego & zaprezentowanego przez [VM (Vicky) Brasseur](https://vmbrasseur.com) oraz [Josh Berkus](https://github.com/jberkus).
 
-Since that tutorial, the collection continued to grow as Vicky located new resources to add to the list. While the collection was public, it was buried. This repository brings it out into the light and makes it easy for everyone to locate, use, and contribute to it.
+Od czasu stworzenia tego poradnika jego kolekcja stale się powiększała, ponieważ Vicky lokalizowała nowe materiały, aby dodać je do listy. Podczas gdy kolekcja była publiczna, została schowana. To repozytorium wydobywa je na światło dzienne i ułatwia każdemu zlokalizowanie, użycie i współtworzenie.
 
-Immense thanks due to Josh for helping build the initial collection of resources. Thank you, Josh!
+Ogromne podziękowania dla Josha za pomoc w budowie początkowej kolekcji materiałów. Dziękuję Josh!
 
-## Licensing
+## Licencja
 
-While the individual works in this list each have their own copyright and licensing, this work itself is copyright [VM Brasseur](https://vmbrasseur.com). All contributors retain copyright to their contributions to the work.
+Chociaż poszczególne dzieła z tej listy mają własne prawa autorskie i licencje, samo to dzieło jest chronione prawem autorskim [VM Brasseur](https://vmbrasseur.com). Wszyscy współpracownicy zachowują prawa autorskie do swoich wkładów w dzieło.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 Please see [LICENSE.md](./LICENSE.md) for more information.
+
+Wersja polska od: @[mbiesiad](https://github.com/mbiesiad)
