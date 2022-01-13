@@ -77,6 +77,7 @@ Browse below or click here to jump directly to a section:
 * [The Portland Experience; Confessions of a First Time Speaker @DevOpsDaysPDX](https://medium.com/@jasongrimes/the-portland-experience-confessions-of-a-first-time-speaker-devopsdayspdx-ceed50325fe3) by Jason Grimes
 * [A problem like public speaking](https://medium.com/a-problem-like-maria/a-problem-like-public-speaking-3859b20b2d00) by Maria Neumayer
 * [🎥 Why you should pursue public speaking and how to get there](https://youtu.be/pQfNB9EJ7Do) by Yenny Cheung
+* [Why give a conference talk (or, why give a Postgres talk)](https://www.citusdata.com/blog/2022/01/11/why-give-a-conference-talk/) by Claire Giordano
 
 ### Finding a Conference
 
@@ -103,6 +104,7 @@ Participation" depending on the conference.
 * [Techmeme Events List](https://www.techmeme.com/events)
 * [conferCal](http://www.confercal.com)
 * [Design Conferences](https://design-conferences-2019.com) UX, UI, Product & Interaction Design Conferences
+* [PostgreSQL Upcoming Events}(https://www.postgresql.org/about/events/)
 
 #### Mailing lists with tech CFPs
 
@@ -136,6 +138,7 @@ Participation" depending on the conference.
 * [Is Your Conference Proposal Good Enough?](https://web.archive.org/web/20180625110929/http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez
 * [Addendum About Conference Proposals](https://www.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams
 * [Don’t Fear the CFP](https://medium.com/@mattstratton/dont-fear-the-cfp-e8272910972b) by Matt Stratton
+* [Tips on how to get your conference talk SELECTED](https://www.citusdata.com/blog/2020/01/16/tips-on-getting-talk-proposals-accepted/) by Claire Giordano
 
 ### Writing a bio
 
