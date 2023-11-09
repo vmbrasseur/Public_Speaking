@@ -91,18 +91,12 @@ might be interested in hearing your talks, as well!
 A CFP is a "Call For Papers", "Call For Proposals", or "Call For
 Participation" depending on the conference.
 
-* [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
-* [Central US Community Tech Events](http://www.davidgiard.com/CentralUSEvents.aspx)
 * [CFP Time](https://cfptime.org)
 * [Conference Radar](http://conferenceradar.com)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList)
-* [CFP Land](https://www.cfpland.com)
 * [Techmeme Events List](https://www.techmeme.com/events)
-* [conferCal](http://www.confercal.com)
-* [Design Conferences](https://design-conferences-2019.com) UX, UI, Product & Interaction Design Conferences
 
 #### Mailing lists with tech CFPs
 
