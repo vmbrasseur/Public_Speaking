@@ -77,6 +77,7 @@ Browse below or click here to jump directly to a section:
 * [The Portland Experience; Confessions of a First Time Speaker @DevOpsDaysPDX](https://medium.com/@jasongrimes/the-portland-experience-confessions-of-a-first-time-speaker-devopsdayspdx-ceed50325fe3) by Jason Grimes
 * [A problem like public speaking](https://medium.com/a-problem-like-maria/a-problem-like-public-speaking-3859b20b2d00) by Maria Neumayer
 * [🎥 Why you should pursue public speaking and how to get there](https://youtu.be/pQfNB9EJ7Do) by Yenny Cheung
+* [DevelopingUp Podcast Episode #43: Public Speaking](https://www.developingup.com/episodes/43) by [DevelopingUp](https://www.developingup.com) feturing guest [Karl Hughes](https://twitter.com/karllhughes)
 
 ### Finding a Conference
 
