@@ -1,4 +1,4 @@
-# Public Speaking Resources
+﻿# Public Speaking Resources
 
 > Translations available:
 > 
@@ -184,6 +184,7 @@ Participation" depending on the conference.
 * [🎥 Your Perfect Tech Talk](https://www.youtube.com/watch?v=AzVr_nsKoZs) by Saron Yitbarek
 * [🎥 Intro to Public Speaking: The day of your talk](https://www.youtube.com/watch?v=m2j6-pjfvuo) by Jessica Rose
 * [11 Things You Should Never Say During A Presentation](https://www.linkedin.com/pulse/11-things-you-should-never-say-during-presentation-bernard-marr/?trackingId=JAocH5gp5u9FgmZNQlxw%2FA%3D%3D) by Bernard Marr
+* [How to give a talk](https://zapier.com/blog/how-give-talk/) by Mike Knoop 
 
 ### Tools
 
