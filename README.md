@@ -122,6 +122,7 @@ Participation" depending on the conference.
 * [Is Your Conference Proposal Good Enough?](https://web.archive.org/web/20180625110929/http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez
 * [Addendum About Conference Proposals](https://www.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams
 * [Don’t Fear the CFP](https://medium.com/@mattstratton/dont-fear-the-cfp-e8272910972b) by Matt Stratton
+* [How I Write Confernece Talk Proposals](https://mason.dev/blog/how-i-write-conference-talk-proposals/) by Mason Egger
 
 ### Writing a bio
 
