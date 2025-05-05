@@ -94,6 +94,9 @@ Participation" depending on the conference.
 * [CFP Time](https://cfptime.org)
 * [KDNuggets](https://www.kdnuggets.com/meetings/), primarily data-focused conferences
 * [Techmeme Events List](https://www.techmeme.com/events)
+* [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda) Aggregator with CFPs
+* [Python Deadlines](https://pythondeadlin.es/), Python conference CFP Deadline aggregator
+* [dev.events](https://dev.events) Developer conference aggregator
 
 #### Mailing lists with tech CFPs
 
