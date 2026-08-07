@@ -198,6 +198,10 @@ Participation" depending on the conference.
 
 * [demoshell](https://pypi.org/project/demoshell/) A simplified shell for live demonstrations. It always shows the command prompt at the top of the screen and pushes command output down instead of letting iscroll up.
 
+#### Practice
+
+* [Unprompted Topic Generator](https://unpromptedtopicgenerator.com/impromptu-speech-topics) A free, no-signup tool for generating impromptu speaking prompts and practicing with a timer.
+
 #### Code
 
 * [carbon.now.sh](https://carbon.now.sh/) A tool for generating images of pleasantly sized and highlighted code for slides.
