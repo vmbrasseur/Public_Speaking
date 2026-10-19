@@ -202,6 +202,10 @@ Participation" depending on the conference.
 
 * [carbon.now.sh](https://carbon.now.sh/) A tool for generating images of pleasantly sized and highlighted code for slides.
 
+#### Rehearsal
+
+* [Speech length and pacing checker](https://roundrehearsal.com/tools/speech-timer?utm_source=github-public-speaking&utm_campaign=free-tools-oct) A free, browser-only check of a talk draft: word count, run time at 130 and 150 words per minute, words to add or cut for a target length, and filler words. Nothing is uploaded. (Disclosure: I made it.)
+
 ### Other
 
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
